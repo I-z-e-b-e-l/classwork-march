@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: blueviolet
+}
+
+img {
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    /* border: solid pink 1px; */
+    margin-top 0px;
+    font-size: 4vw;
+    /* display: inline-block; */
+
+}
+
+button {
+    border: solid red 1px;
+    height: 25px;
+    width: 175px;
+    background-color: blueviolet;
+}
+
+
+
+.heart-div {
+    width: 50vw;
+    height: 46vw;
+    margin: auto;
+    background: url("https://media.giphy.com/media/3og0IQ29pE7zRwbh60/giphy.gif") no-repeat;
+    background-size: 100%;
+    /* border: solid red 1px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
